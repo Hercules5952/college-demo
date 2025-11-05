@@ -1,3 +1,6 @@
 # college-demo
-This is my first GitHub repo || Author - Me
+This is my first GitHub repo 
+<br>
+
+ Author - Me
 
